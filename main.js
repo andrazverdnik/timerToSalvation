@@ -1,4 +1,4 @@
-const salvation = 1719230400000;
+const salvation = 1749814200000;
 let days = 0;
 let hours = 0;
 let minutes = 0;
