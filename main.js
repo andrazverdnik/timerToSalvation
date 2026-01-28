@@ -8,6 +8,7 @@ let timer = document.getElementById("timer");
 
 function salvationTimer() {
   let currenTime = new Date().getTime();
+  console.log(currenTime)
   let timeToSalvation = salvation - currenTime;
   formatMilliseconds(timeToSalvation);
   console.log(
